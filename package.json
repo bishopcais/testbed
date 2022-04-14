@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cisl/io": "^1.4.5",
+    "@cisl/io-display": "^1.4.5",
+    "@types/node-fetch": "^2.6.1",
+    "express": "^4.17.3",
+    "node-fetch": "^2.6.7",
+    "socket.io": "^4.4.1",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
